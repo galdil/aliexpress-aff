@@ -3,7 +3,7 @@ import { useState } from "preact/hooks";
 function ExerciseStart({ handleClick, output, children }) {
   return (
     <>
-      <h2>Create Your First Serverless Function</h2>
+      <h2>Create dayagi Your First Serverless Function</h2>
       <p>
         Create a new file at <code>/netlify/functions/hello-world.js</code> and
         put the following inside:
